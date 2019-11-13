@@ -1,0 +1,10 @@
+<div class="jumbotron">
+  <h2>Hello From the world of phoenix</h2>
+
+  <!-- <p>
+    <a href='<%= hello_path(@conn, :show, "Frank")%>'>
+      Say Hello to Frank
+    </a>
+  </p> -->
+  <!-- <p><%= @var %></p> -->
+</div>
